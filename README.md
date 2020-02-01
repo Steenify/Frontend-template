@@ -2,8 +2,6 @@
 
 ## How to run it
 
-Đứng ở root của cái repo này, gõ lệnh:
-
 **Install dependency**
 ```
 npm install
