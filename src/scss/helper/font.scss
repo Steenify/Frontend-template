@@ -1,0 +1,23 @@
+@font-face {
+  font-family: $font;
+  src: url('/public/font/Avenir-Roman.eot');
+  src: url('/public/font/Avenir-Roman.eot?#iefix') format('embedded-opentype'), url('/public/font/Avenir-Roman.woff') format('woff'), url('/public/font/Avenir-Roman.ttf') format('truetype'), url('/public/font/Avenir-Roman.svg#ywftsvg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $font;
+  src: url('/public/font/Avenir-Medium.eot');
+  src: url('/public/font/Avenir-Medium.eot?#iefix') format('embedded-opentype'), url('/public/font/Avenir-Medium.woff') format('woff'), url('/public/font/Avenir-Medium.ttf') format('truetype'), url('/public/font/Avenir-Medium.svg#ywftsvg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $font;
+  src: url('/public/font/Avenir-Black.eot');
+  src: url('/public/font/Avenir-Black.eot?#iefix') format('embedded-opentype'), url('/public/font/Avenir-Black.woff') format('woff'), url('/public/font/Avenir-Black.ttf') format('truetype'), url('/public/font/Avenir-Black.svg#ywftsvg') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}

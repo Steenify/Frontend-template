@@ -1,0 +1,12 @@
+// base
+@import './variable.scss';
+@import './helper/font.scss';
+@import './helper/reset.scss';
+@import './helper/ultil.scss';
+
+// block
+@import './layout/header.scss';
+@import './layout/footer.scss';
+
+// pages
+@import './pages/home/home.scss';

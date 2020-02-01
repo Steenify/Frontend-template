@@ -1,0 +1,22 @@
+// size
+$fullWidth: 100%;
+
+// font
+$font: 'Avenir';
+$title: 'Avenir';
+
+// base color
+$nocolor: transparent;
+$white: #ffffff;
+$black: #000000;
+
+// web color
+$main_color: #63DAE2;
+$second_color: #4BADF3;
+$third_color: #FFC541;
+$text_color: #000000;
+$title_color: #37ADC7;
+$place_holder: #494949;
+$web_bg: #FAFAFA;
+
+@import './mixin.scss';
