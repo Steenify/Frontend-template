@@ -1,28 +1,22 @@
 # Frontend
 
-## Hướng dẫn deploy frontend app
+## How to run it
 
 Đứng ở root của cái repo này, gõ lệnh:
 
+**Install dependency**
 ```
-git subtree push --prefix frontend heroku master
-```
-
-# API
-
-- Search color
-  URL
-
-```
-http://localhost:3000/wp-json/wp/v2/the-gioi-mau-sac-cat?filter[meta_key]=colors_$_name&filter[meta_value]=######&filter[meta_compare]=like
+npm install
 ```
 
-Update ###### by color name
-
-- Search location of agency
-
+**Start Develop**
 ```
-http://localhost:3000/wp-json/wp/v2/agency
+npm run dev
+```
+
+**Build Project**
+```
+npm run build
 ```
 
 # SCSS
